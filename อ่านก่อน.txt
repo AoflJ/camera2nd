@@ -1,0 +1,16 @@
+1. สามารถแก้ไขไฟล์การตั้งค่าฐานข้อมูลได้ที่
+ -front-end เข้าไปแก้ได้ที่โฟลเดอร์ includes
+	ไฟล์ connectdb.php
+ -back-end เข้าไปแก้ได้ที่โฟลเดอร์ admin/pages/includes
+	ไฟล์ connectdb.php
+
+
+
+2. เข้า front-end ได้ที่
+localhost/camera2nd/
+
+3.เข้า back-end ได้ที่
+localhost/camera2nd/admin/
+
+username: admin@admin.com
+password: 1234
